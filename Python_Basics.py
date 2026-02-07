@@ -118,4 +118,10 @@ elif nota >= 60:
 else:
     print('Reprobaste')
 
-#Referencia: Exercise1
+#Referencia: Exercise1 - Calculadora IMC
+#Referencia: Exercise2 - Conversor de Temperaturas C/F/K
+#Referencia: Exercise3 - Sistema de Descuentos
+
+
+
+
