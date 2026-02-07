@@ -122,6 +122,23 @@ else:
 #Referencia: Exercise2 - Conversor de Temperaturas C/F/K
 #Referencia: Exercise3 - Sistema de Descuentos
 
+#Consejos y Mejores Practicas
+# 1. Usar nombres descriptivos para las variables (edad_usuario) en lugar de (x)
+# 2. Usar minusculas y guiones bajos
+# 3. Evitar usar nombres de una letra, como por ejemplo i,j,k que se usan en bucles
 
+# 4. Los comentarios de una linea se escriben con un # al inicio o al final de una linea
+
+"""
+5. Los comentarios de varias lineas 
+se escriben con 3 comillas 
+antes y despues
+"""
+# 6. La indentacion se usa para definir bloques de codigo
+# 7. Toda la informacion que se ingresa, Python lo toma como String.
+# 9. No se permite la division para 0
+
+
+#Estructuras condicionales
 
 
